@@ -192,7 +192,7 @@ button:hover {
     text-align: center;
 }
 body {
-    background-image: url("../images/campus.jpg");
+    background-image: url("..campus.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -200,6 +200,6 @@ header {
     background: linear-gradient(135deg, #123456, #456789);
 }
 body {
-    background-image: url("../images/campus.jpg");
+    background-image: url("..campus.jpg");
     background-size: cover;
 }
